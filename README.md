@@ -290,6 +290,8 @@ Official integrations are maintained by companies building production ready MCP 
 - **[ZenML](https://github.com/zenml-io/mcp-zenml)** - Interact with your MLOps and LLMOps pipelines through your [ZenML](https://www.zenml.io) MCP server
 - **[AnyCrawl](https://github.com/any4ai/anycrawl-mcp-server)** - [AnyCrawl](https://anycrawl.dev) MCP Server, Powerful web scraping and crawling for Cursor, Claude, and other LLM clients via the Model Context Protocol (MCP).
 
+- **[GoAnyAPI](https://github.com/GoAnyAPI/goanyapi-mcp)** - Official remote MCP server for SEO and web data: Google/Bing SERP, autocomplete for 10+ engines, keyword difficulty and suggestions, backlinks, domain rating, website traffic and Google Ads Transparency.
+
 ## Community Servers
 
 A growing set of community-developed and maintained servers demonstrates various applications of MCP across different domains.
